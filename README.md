@@ -1,4 +1,4 @@
-**dactorio-dat** is a utility for converting factorio mod-settings.dat to the old json format.
+**factorio-dat** is a utility for converting factorio mod-settings.dat to the old json format.
 
 ## Installing
 

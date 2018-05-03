@@ -10,7 +10,7 @@ import (
 func usage() {
 	log.Printf(`Usage: %v [in.dat] [out.json]
 	Default input/output files are "mod-settings.dat" and "mod-settings.json" in the current directory.
-	"-" cad be used for any of arguments to use stdin/stdout.`, os.Args[0])
+	"-" can be used for any of arguments to use stdin/stdout.`, os.Args[0])
 }
 
 func main() {
